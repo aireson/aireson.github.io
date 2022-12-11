@@ -4,4 +4,5 @@ title: Remodel
 permalink: /remodel/
 ---
 
-![alt text](IMG_20220527_212249.jpg)
+![""](IMG_20220527_212249.jpg)
+<img src="IMG_20220527_212249.jpg" alt="">
