@@ -10,7 +10,7 @@ header:
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
-<!--feature_row:
+feature_row:
   - url: /assets/images/IMG_20220406_175442.jpg
     image_path: /assets/images/IMG_20220406_175442.jpg
     alt: "placeholder image 1"
@@ -25,7 +25,7 @@ intro:
     btn_class: "btn--primary"
   - image_path: /assets/images/IMG_20220322_184023.jpg
     title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."-->
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
   - image_path: /assets/images/IMG_20220406_175501.jpg
     alt: "placeholder image 2"
