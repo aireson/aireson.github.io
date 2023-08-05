@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/callum-hill-L7V4rwETDb0-unsplash.jpg
-excerpt: "Work began on XX XXX XX and completed on XX XXX XX."
+excerpt: "Work began on 0XX XXX XX and completed on XX XXX XX."
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 gallery_kitchen:
